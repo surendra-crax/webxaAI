@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="flex items-center gap-3 mb-5">
             <div className="p-2 rounded-xl bg-white">
               <img
-                src="/logo.jpg"
+                src="/logo.png"
                 className="w-12 h-12 object-contain"
                 alt="WebX AI Logo"
               />
