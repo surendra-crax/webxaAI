@@ -3,6 +3,8 @@ import Services from "@/components/Services";
 import WhyWebXAI from "@/components/WhyWebXAI";
 import Approach from "@/components/Approach";
 import Portfolio from "@/components/Portfolio";
+import Testimonials from "@/components/Testimonials";
+import CTA from "@/components/CTA";
 
 
 export default function Home() {
@@ -13,6 +15,8 @@ export default function Home() {
       <WhyWebXAI />
       <Approach />
       <Portfolio />
+      <Testimonials />
+      <CTA /> 
     </>
   );
 }
