@@ -26,7 +26,7 @@ export default function Navbar() {
 
           {/* BRAND */}
           <Link href="/" className="flex items-center gap-3">
-            <div className="p-2 rounded-xl bg-[#000000] border border-white/10 shadow">
+            <div className="p-2 rounded-xl   shadow">
               <img
                 src="/logo.png"
                 className="w-12 h-12 object-contain"
